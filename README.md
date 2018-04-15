@@ -14,3 +14,16 @@ Turbine - Turbine 是聚合服务器发送事件流数据的一个工具，用�
 Spring Cloud Stream - Spring 数据流操作开发包，封装了与 Redis、Rabbit、Kafka 等发送接收消息。  
 Feign - Feign 是一种声明式、模板化的 HTTP 客户端。  
 Spring Cloud OAuth2 - 基于 Spring Security 和 OAuth2 的安全工具包，为你的应用程序添加安全控制。  
+
+# 应用服务
+该项目包含 6 个服务
+registry - 服务注册与发现
+config - 外部配置
+monitor - 监控
+zipkin - 分布式跟踪
+gateway - 代理所有微服务的接口网关
+auth-service - OAuth2 认证服务
+
+# 项目预览
+
+访问 http://localhost:8761/ 默认账号 user，密码 password  
