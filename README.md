@@ -32,3 +32,10 @@ auth-service - OAuth2 认证服务
 ![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor1.jpg)  
 3)Turbine Hystrix面板  
 ![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor2.jpg)  
+3)访问记录  
+![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor3.jpg)  
+4)配置修改  
+![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor4.jpg)  
+5)应用服务链路跟踪  
+![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_zipkin.jpg)  
+
