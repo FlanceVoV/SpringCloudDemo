@@ -1,7 +1,7 @@
 # springcloud_demo  
 本项目是一个基于 Spring Boot、Spring Cloud、Spring Oauth2 和 Spring Cloud Netflix 等框架构建的微服务项目。  
 
-#  技术栈  
+#  运用技术  
 Spring boot - 微服务的入门级微框架，用来简化 Spring 应用的初始搭建以及开发过程。  
 Eureka - 云端服务发现，一个基于 REST 的服务，用于定位服务，以实现云端中间层服务发现和故障转移。  
 Spring Cloud Config - 配置管理工具包，让你可以把配置放到远程服务器，集中化管理集群配置，目前支持本地存储、Git 以及 Subversion。  
@@ -15,7 +15,7 @@ Spring Cloud Stream - Spring 数据流操作开发包，封装了与 Redis、Rab
 Feign - Feign 是一种声明式、模板化的 HTTP 客户端。  
 Spring Cloud OAuth2 - 基于 Spring Security 和 OAuth2 的安全工具包，为你的应用程序添加安全控制。  
 
-# 应用服务
+# 项目结构
 该项目包含 6 个服务
 registry - 服务注册与发现
 config - 外部配置
@@ -24,7 +24,11 @@ zipkin - 分布式跟踪
 gateway - 代理所有微服务的接口网关
 auth-service - OAuth2 认证服务
 
-# 项目预览
+# 项目访问
 
-访问 http://localhost:8761/ 默认账号 user，密码 password  
+1)访问注册中心 http://localhost:8761/ 默认账号 user，密码 password  
 ![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_registry.jpg)  
+2)访问监控中心 http://localhost:8040/ 默认账号 admin，密码 admin  
+![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor1.jpg)  
+3)Turbine Hystrix面板  
+![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor2.jpg)  
