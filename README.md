@@ -36,6 +36,6 @@ auth-service - OAuth2 认证服务
 ![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor3.jpg)  
 4)配置修改  
 ![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_monitor4.jpg)  
-5)应用服务链路跟踪  
+5)应用服务链路跟踪  访问 http://localhost:9411/ 默认账号 admin，密码 admin  
 ![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_zipkin.jpg)  
 
