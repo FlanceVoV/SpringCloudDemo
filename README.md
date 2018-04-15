@@ -27,3 +27,4 @@ auth-service - OAuth2 认证服务
 # 项目预览
 
 访问 http://localhost:8761/ 默认账号 user，密码 password  
+![image](https://github.com/FlanceVoV/SpringCloudDemo/blob/master/img/springclouddemo_registry.jpg)  
