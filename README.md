@@ -27,7 +27,7 @@ auth-service - OAuth2 认证服务
 # 项目启动
 4)启动方式：  
 ①配置 rabbitmq  
-②修改 hosts 将主机名指向到本地，127.0.0.1 registry config monitor rabbitmq auth-service或者修改各服务配置文件中的相应主机名为本地 ip(C:\Windows\System32\drivers\etc\hosts)  
+②修改 hosts 将主机名指向到本地，127.0.0.1 registry config monitor rabbitmq auth-service或者修改各服务配置文件中的相应主机名为本地 ip(C:\Windows\System32\drivers\etc\hosts)    
 ③启动 registry、config、monitor、zipkin  
 ④启动 gateway、auth-service、svca-service、svcb-service  
 
