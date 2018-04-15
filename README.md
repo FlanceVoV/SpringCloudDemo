@@ -15,8 +15,8 @@ Spring Cloud Stream - Spring 数据流操作开发包，封装了与 Redis、Rab
 Feign - Feign 是一种声明式、模板化的 HTTP 客户端。  
 Spring Cloud OAuth2 - 基于 Spring Security 和 OAuth2 的安全工具包，为你的应用程序添加安全控制。  
 
-# 项目结构
-该项目包含 6 个服务
+# 项目结构  
+该项目包含 6 个服务  
 registry - 服务注册与发现  
 config - 外部配置  
 monitor - 监控  
